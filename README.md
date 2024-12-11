@@ -36,20 +36,29 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
-
+1.Open your Quartus-II
+2.Write your code and run it
+3.Then get a RTL Realization
+4.Then get a output waveform
+4.Conclude your result based on that
 **PROGRAM**
+![Exp5](https://github.com/user-attachments/assets/8aa33b02-84b7-4b06-9a9c-a1cdc271c0ed)
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
+Developed by: RegisterNumber: 24900612 
+J. PAVITRA
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+[Exp5RTL](https://github.com/user-attachments/assets/58708390-790e-433d-b9aa-688db23d33df)
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![Exp5WAVEFORM](https://github.com/user-attachments/assets/e9cfa513-d6bc-4f0d-a6c3-395748ced916)
 
 **RESULTS**
+Thus the ENCODER8TO3DATAFLOW circuits are designed and the truth tables is verified using Quartus software.
 
 
 
